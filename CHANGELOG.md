@@ -1,3 +1,8 @@
+0.6.3.ruby2.4
+-------------
+
+- Change the gemspec to use a version of ice cube that works with Ruby >= 2.4
+
 0.6.3
 -----
 
