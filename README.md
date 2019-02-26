@@ -8,6 +8,8 @@
 
 Recurring jobs for [Sidekiq](http://mperham.github.com/sidekiq/).
 
+This is a version which updates the ice cube gem for later versions of Ruby.
+
 ## NO LONGER MAINTAINED!!!
 
 Due to changes in Sidekiq (which would necessitate an almost complete rewrite) and the move to the ActiveJob abstraction this library is no longer maintained. Please refer to alternatives instead.
