@@ -11,7 +11,7 @@ module Sidetiq
     PATCH = 3
 
     # Public: Sidetiq version suffix.
-    SUFFIX = nil
+    SUFFIX = "ruby2.4"
 
     # Public: String representation of the current Sidetiq version.
     STRING = [MAJOR, MINOR, PATCH, SUFFIX].compact.join('.')
